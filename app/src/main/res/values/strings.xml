@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="game_setting_label">Settings</string>
+    <string name="game_label">TicTacToe</string>
+    <string name="game_start">Start</string>
+    <string name="tic_name">Крестики</string>
+    <string name="tac_name">Нолики</string>
+    <string name="restart">Еще раз</string>
+    <string name="tie">Ничья</string>
+    <string name="win">%1$2s победили!</string>
+    <string name="current_turn">Ходят %1$2s</string>
+    <string name="game_settings">Настройка игры</string>
+    <string name="game_mode">Режим игры</string>
+    <string name="two_players">2 игрока</string>
+    <string name="easy_bot">Бот</string>
+    <string name="field_size">Размер поля</string>
+
+</resources>
